@@ -1,8 +1,8 @@
 {
   "name": "redux-idle-timeout-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This middle-ware allows to monitor ideal timeout in redux application.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "files": [
     "dist"
   ],
